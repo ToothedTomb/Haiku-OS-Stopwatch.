@@ -6,5 +6,8 @@ Just a easy and quick to use application.
 # Compile:
 g++ -o Stopwatch main.cpp -lbe -lroot
 
+# Download:
+https://jonathan-linux.itch.io/haiku-os-stopwatch
+
 # Developers:
 Jonathan Steadman.
